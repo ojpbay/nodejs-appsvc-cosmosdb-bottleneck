@@ -7,3 +7,6 @@ engineInstances: 1
 failureCriteria: 
     - avg(response_time_ms) > 100
     - percentage(error) > 20
+env:
+  - name: webapp
+    value: loadtestwebapp.azurewebsites.net
