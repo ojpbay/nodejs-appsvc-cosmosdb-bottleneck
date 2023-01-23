@@ -14,7 +14,7 @@ variables:
   serviceConnection: 'LoadTestServiceConnection'
   azureSubscriptionId: '951757de-f9e5-4ff2-83bd-02e7d0de82c2'
   loadTestResource: 'LoadTest'
-  loadTestResourceGroup: 'LoadTest-rgrp'
+  loadTestResourceGroup: 'loadtestwebapp-rg'
   location: 'EAST US'
 
 
